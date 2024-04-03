@@ -1,4 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+MOno&size=25&pause=1000&color=F70000&random=false&width=435&lines=hello%2C+i'm+biz;luau+%2F+python+%2F+js)](https://git.io/typing-svg)
+
+## GitHub Stats: 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bluwarerbx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bluwarerbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
