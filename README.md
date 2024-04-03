@@ -2,7 +2,7 @@
 
 ## GitHub Stats: 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bluwarerbx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bluwarerbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bluwarerbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
 **bluwarerbx/bluwarerbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
