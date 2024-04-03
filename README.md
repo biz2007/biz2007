@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+MOno&size=25&pause=1000&color=0097F7&random=false&width=435&lines=hi%2C+my+name+is+biz)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+MOno&size=25&pause=1000&color=F70000&random=false&width=435&lines=hello%2C+i'm+biz;luau+%2F+python+%2F+js)](https://git.io/typing-svg)
 
 <!--
 **bluwarerbx/bluwarerbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
